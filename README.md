@@ -60,7 +60,7 @@ Contributors:
 
 - Anand Bhagwat
 - Steve Taylor
-- Sanjay Sheel
+- ![Sanjay Sheel](https://github.com/sanjaysheel)
 - Sacha Wharton
 - Sagar Utekar
 - Nael Fridhi
